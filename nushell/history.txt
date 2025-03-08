@@ -1,0 +1,734 @@
+config set path $nu.path
+help
+which nu
+which zsh
+which bash
+cat /etc/shell
+cat /etc/shells
+which nu
+cat /etc/shell
+which nu
+cat /etc/shells
+chsh -s /usr/bin/nu
+ls
+git clone https://github.com/JP-maker369/grub-theme.git
+cd /run/media/jeyaraj/5403f0f0-be99-4ba9-8dbe-336536eba0c7/Github project
+cd /run/media/jeyaraj/5403f0f0-be99-4ba9-8dbe-336536eba0c7/
+ls
+cd `Github project/`
+ls
+git grub-theme/
+grub-theme/
+ls
+git add .
+git commit -m "new commit"
+git push
+git add .
+git commit -m "new commit"
+git push
+git config --global user.name "JP-maker369"
+git config --list
+git config --global user.email "arumugamchandra2003@gmail.com"
+git config --list
+git config --global user.name "JP-maker369"
+git config --global user.email "arumugamchandra2003@gmail.com"
+git config --list
+git config --global user.name "JP-maker369"
+git config --global user.email arumugamchandra2003@gmail.com
+git config --list
+git config --global list
+git config --global --list
+sudo git config --global user.name "JP-maker369"
+sudo git config --global user.email arumugamchandra2003@gmail.com
+sudo git config --global --list
+/run/media/jeyaraj/5403f0f0-be99-4ba9-8dbe-336536eba0c7/"New Folder"
+cd /run/media/jeyaraj/5403f0f0-be99-4ba9-8dbe-336536eba0c7/"New Folder"
+cd /run/media/jeyaraj/5403f0f0-be99-4ba9-8dbe-336536eba0c7/
+ls
+cd `New Folder/`
+ls
+cd rdm/
+cargo build --release
+make
+cargo new pdm
+cd pdm
+ls
+touch Cargo.toml
+touch theme.toml
+cargo build
+sudo nano /boot/grub/grub.cfg
+cd /run/media/jeyaraj/5403f0f0-be99-4ba9-8dbe-336536eba0c7/
+ls
+cd `Rust Project/`
+ls
+cargo new rust_image_sharpen
+ls
+cargo build --release
+ls
+cargo run --release -- -i 1.jpg -o output.jpg -m realesrgan_x2.onnx<\n>
+cargo build --release
+cargo run --release -- -i 1.jpg -o output.jpg -m realesrgan_x2.onnx<\n>
+cargo build --release
+cargo run --release -- -i 1.jpg -o output.jpg -m realesrgan_x2.onnx<\n>
+ls
+cargo run --release -- -i 1.jpg -o output.jpg -m realesrgan_x2.onnx<\n>
+ls -l realesrgan_x2.onnx<\n>
+ls
+cargo build --release
+cargo run --release -- 1.jpg output.jpg
+cargo build --release
+cargo run --release -- 1.jpg output.jpg
+cd /run/media/jeyaraj/5403f0f0-be99-4ba9-8dbe-336536eba0c7/
+cd `Rust Project/`
+ls
+cd rust_image_sharpen/
+./rust_image_sharpen new.png out.jpg
+sudo pacman -S code
+sudo pacman -Syyu
+sudo pacman -S code
+cd /run/media/jeyaraj/5403f0f0-be99-4ba9-8dbe-336536eba0c7/
+ls
+cd `Rust Project/`
+ls
+cd /run/media/jeyaraj/5403f0f0-be99-4ba9-8dbe-336536eba0c7/
+cd `Rust Project/`
+code .
+ls
+cd rust_image_sharpen/
+ls
+cd /run/media/jeyaraj/5403f0f0-be99-4ba9-8dbe-336536eba0c7/
+cd `Rust Project/sharpen/`
+code .
+cargo build --release
+cargo run --release -- wp.jpg output.png
+cargo run --release -- Real-ESRGAN-x4plus.onnx wp.jpg output.png
+cargo run --release -- Real-ESRGAN-x4plus.onnx wp.jpg output.jpg
+cargo run --release -- ESRGAN.onnx wp.jpg output.jpg
+cargo run --release -- Real-ESRGAN-x4plus.onnx wp.jpg output.jpg
+cd /run/media/jeyaraj/5403f0f0-be99-4ba9-8dbe-336536eba0c7/
+cd python/
+git clone https://github.com/ai-forever/Real-ESRGAN.git
+pip install git+https://github.com/sberbank-ai/Real-ESRGAN.git
+sudo pacman -S python pip
+python --version
+python3 install pip3
+sudo pacman -S python-pip
+pip --version
+sudo python get-pip.py
+python -m pip install --upgrade pip
+pip --version
+pip install git+https://github.com/sberbank-ai/Real-ESRGAN.git
+pip install numpy
+pip install opencv-python
+pip install Pillow tqdm huggingface-hub
+pip install tqdm
+pip install torch>=1.7
+pip install torchvision>=0.8.0
+pip install torch>=1.7
+sudo pacman -S thunar
+sudo pacman -S nautilus
+sudo pacman -S dolphine
+sudo pacman -S dolphin
+sudo pacman -Rns nautilus
+XDG_MENU_PREFIX=plasma- kbuildsycoca6
+git clone https://raw.githubusercontent.com/KDE/plasma-workspace/master/menu/desktop/plasma-applications.menu
+sudo pacman -S archlinux-xdg-menu
+XDG_MENU_PREFIX=arch- kbuildsycoca6
+sudo pacman -Rns nemo
+XDG_MENU_PREFIX=arch- kbuildsycoca6
+kbuildsycoca6
+ln -fs /etc/xdg/menus/*applications.menu ~/.config/menus/applications.menu
+cargo new image-sharpen
+cd image-sharpen/
+cargo build --release
+code .
+ls
+chmod +x VentoyGUI.x86_64
+./VentoyGUI.x86_64
+config nu
+sudo openvpn
+sudo pacman -S openvpn
+ls
+sudo openvpn vpnbook-us178-tcp443.ovpn
+ls
+makepkg -si
+sudo openvpn vpnbook-us178-udp25000.ovpn
+paru opera
+paru -S opera
+sudo pacman -S lsd
+lsd
+ls
+cd Downloads/
+lsd
+sudo pacman -Rns lsd
+exit
+paru -S pamac-aur
+paru -Syu
+cfdisk
+paru -Syu
+paru -S pamac-aur
+sudo pacman -S libreoffice
+ox
+config nu
+sudo pacman -S vim
+config nu
+sudo pacman -Rns vim
+config nu
+> config nu -d
+> config nu
+config nu
+exit
+nu
+exit
+nu
+exit
+ox $nu.config-path
+config nu
+starship preset tokyo-night -o ~/.config/starship.toml
+ls
+cd .config/
+ls
+ox starship.toml
+starship preset pastel-powerline -o ~/.config/starship.toml
+ls
+cd ..
+ls
+alacritty
+ox ~/.config/alacritty/alacritty.yml
+ox ~/.config/alacritty/alacritty.toml
+ls
+onefetch
+onefetch --help
+sudo pacman -Rns onefetch 
+su
+exit
+lsblk
+sudo pacman -S wezterm-git
+paru -S wezterm-git
+git clone https://github.com/cassiofb-dev/wezterm_nushell_starship.git
+ls
+cd .config/
+mkdir wezterm
+ls
+exit
+git clone git clone https://github.com/mbadolato/iTerm2-Color-Schemes.git
+exit
+nu
+ls
+nu
+ping www.archlinux.com
+cd .config/
+ls
+cd yay/
+sudo pacman -Rns alacritty
+ls
+fastfetch
+config nu
+exit
+nu
+exit
+cd .config/
+ls
+cd fastfetch/
+ls
+ox config.jsonc
+fastfetch
+nu
+clear
+nu
+clear
+ls
+cd paru/
+ls
+clear
+ls
+nu
+git clone git clone https://github.com/Asthowen/AFetch.git
+git clone https://github.com/Asthowen/AFetch.git
+cd AFetch && cargo build --release
+cd AFetch
+ls
+cargo build --release
+ls
+cd target/
+ls
+release/
+ls
+./afetch
+./afetch -h
+./afetch -help
+fastfetch
+./afetch - Language
+cd ../
+ls
+cd ../
+ls
+git clone https://github.com/ozwaldorf/punfetch.git
+cd punfetch/
+make install
+code .
+make install
+ox visudo
+sudo EDITOR=ox visudo
+cargo install punfetch
+ls
+.cargo/
+ls
+cargo install punfetch
+make install
+code .
+punfetch
+punfetch -h
+config nu
+./afetch
+make install
+cargo new pfetch
+code .
+punfetch -h
+punfetch -i /home/.config/fastfetch/image/arch.png
+punfetch -i arch.png
+punfetch -h
+config nu
+nu
+config nu
+$nu.data-dir
+config nu
+make install
+make build
+code .
+cargo new pfetch --bin
+cd pfetch/
+code .
+cargo build --release
+./pfetch
+cargo build --release
+./pfetch
+cargo build --release
+./pfetch
+fastfetch
+clear
+fastfetch
+clear
+./pfetch
+cargo build --release
+./pfetch
+cargo build --release
+./pfetch
+cargo build --release
+./pfetch
+cargo build --release
+clear
+./pfetch
+cargo build --release
+./pfetch
+git clone https://github.com/Asthowen/AFetch.git
+cd AFetch
+ls
+cargo build --release
+./afetch
+fastfetch
+code .
+cargo build --release
+./pfetch
+code .
+cargo run --release
+fastfetch --config config11
+fastfetch --config config11.json
+fastfetch --help
+cargo run --release
+./afetch
+fastfetch
+cargo run --release
+./pfetch
+cargo run --release
+cargo build --release
+./pfetch
+cargo build --release
+./pfetch
+cargo build --release
+./pfetch
+cargo build --release
+./pfetch
+cargo build --release
+./pfetch
+cargo build --release
+./pfetch
+cargo build --release
+./pfetch
+cargo run --release
+code .
+cargo build --release
+cd target/release/
+ls
+pfetch
+./pfetch
+config nu
+ox github-recovery-codes-dark.txt
+ox .BUILDINFO
+ox .PKGINFO
+./pfetch
+./punfetch
+ox .zshrc
+ox .zsh_history
+cat /etc/shell
+cat /etc/shells
+which nu
+ox history.txt
+config nu
+ox history.txt
+ox pkg
+ox history.txt
+ox .zsh_history
+ox env.nu
+ox .zsh_history
+ox history.txt
+git clone https://aur.archlinux.org/punfetch-bin.git
+sudo pacman -Rns lapce 
+yazi
+sudo pacman -S kate
+sudo pacman -Syu
+sudo pacman -S kate
+makepkg
+yazi
+./afetch-0.0.7-x86_64-unknown-linux-gnu
+sudo pacman -Syu
+sudo pacman -S git wget meson ninja cmake base-devel namcap
+ls
+cd /usr/share/pacman/
+cp PKGBUILD.proto $HOME/Documents/PKGBUILD
+cp PKGBUILD.proto /home/jeyaraj/Documents/PKGBUILD
+makepkg
+git clone https://aur.archlinux.org/starship-git.git
+makepkg
+sudo pacman -S ouch
+ls
+ouch l
+ouch ls
+ouch l AFetch-0.0.7.tar.gz
+ouch l AFetch-0.0.7.tar.gz --tree
+sudo pacman -Rns tree
+ouch l AFetch-0.0.7.tar.gz --tree
+ls
+ouch d AFetch-0.0.7.tar.gz
+ls
+ouch c 1.xcf 1.zip
+yazi
+sudo pacman --Rns unzip
+sudo pacman --Rns tar
+sudo pacman -Rns unzip
+yazi
+sudo pacman -Rns tar
+yazi
+sudo pacman -S helix zellij
+config nu
+yazi
+git clone https://github.com/luccahuguet/yazelix.git
+yazi
+zellij
+yazi
+mkdir -p ~/.config/yazi<\n>ox ~/.config/yazi/config.toml<\n>
+mkdir  ~/.config/yazi<\n>ox ~/.config/yazi/config.toml<\n>
+yazi
+config nu
+yazi
+yz
+yazi
+sudo pacman -Rns helix
+yazi
+yazi ./.config/
+yazi ./.config/yazi/
+yazi
+zellij
+lsblk
+mkfs.fat -F 32 /dev/sdb
+sudo mkfs.fat -F 32 /dev/sdb
+yazi
+ls
+./VentoyGUI.x86_64
+yazi
+zellij
+paru -S eww
+eww
+eww --restart
+eww -c
+ouch c Sweet-cursors/ 1.tar.gz
+ouch c BeautySolar/ 1.tar.gz
+git clone https://github.com/gusbemacbe/suru-plus.git
+ouch c `New Folder/` Night Diamond.tar.gz
+ouch c `Night Diamond (Blue)/` Night Diamond.tar.gz
+ouch c `Night Diamond (Blue)/` Diamond.tar.gz
+git clone https://github.com/cutefishos/cursor-themes.git
+ouch c BeautyTheme/ BeautyTheme.tar.gz
+sudo rm -rf ./Adwaita/
+sudo rm -rf ./AdwaitaLegacy/
+sudo rm -rf ./breeze/
+sudo rm -rf ./breeze-dark/
+sudo rm -rf ./candy-icons/
+sudo mv ./BeautyTheme/ /usr/share/icons/
+sudo ox ./index.theme
+cat /etc/shells
+cat /etc/passwd
+su
+which nu
+which
+sudo ox /etc/passwd
+su
+sudo ox /etc/passwd
+su
+cat /etc/shells
+firefox
+eww daemon
+hyprctl reload
+eww daemon
+hyprctl reload
+eww daemon
+hyprctl reload
+reboot
+hyprctl reload
+reboot
+hyprctl reload
+repo-add chaoslinux.db.tar.gz ./*.zst
+git clone https://github.com/chaoslinux/repo.git
+cd ../
+ls
+code .
+ox README.md
+clear
+ls
+git add .
+git commit -m "new commit"
+git push
+sudo pacman -Syu
+git clone https://github.com/JP-maker369/funny_editor.git
+code .
+git add .
+git commit -m "new commit"
+git add .
+git commit -m "new commit"
+git add .
+git commit -m "new commit"
+git push
+code .
+git add .
+git commit -m "new commit"
+git push
+sudo pacman -Syu
+ox /etc/pacman.conf
+ox /etc/pacman.d/
+ox /etc/pacman.conf
+sudo ox /etc/pacman.conf
+sudo pacman -Rns ox
+sudo pacman -Sy
+sudo ox /etc/pacman.conf
+sudo pacman -Sy
+sudo ox /etc/pacman.conf
+sudo pacman -Sy
+sudo pacman -Rns ox
+sudo pacman -Rns ox-bin
+sudo pacman -S ox-bin
+sudo pacman -Sy
+sudo pacman -S ox-bin
+sudo pacman -S ox
+repo-add chaos.db.tar.gz ./*.zst
+cd ../
+ls
+cd ../
+ls
+code .
+git add .
+git commit -m "new commit"
+git push
+git push --force origin main
+git add .
+git commit -m "new commit"
+git push --force origin main
+makepkg -si
+sudo ox /etc/pacman.conf
+cd /var/lib/pacman/sync/
+ls
+sudo rm -rf ./chaoslinux.db
+sudo pacman -Sy
+ls
+sudo pacman -S ox
+sudo pacman -S ox-bin
+sudo pacman -Syuf
+sudo pacman -Syu
+repo-add chaos.db.tar.gz ./*.zst
+git add .
+git commit -m "new commit"
+git push --force origin main
+sudo pacman -Sy
+sudo pacman -Syu
+sudo pacman -S paru
+git add .
+git commit -m "new commit"
+git push --force origin main
+repo-add chaos.db.tar.gz ./*.pkg.tar.zst
+git add .
+git commit -m "new commit"
+git push --force origin main
+sudo pacman -Sy
+sudo pacman -Syu
+ox /etc/pacman.conf
+sudo ox /etc/pacman.conf
+sudo pacman -Sy
+sudo pacman -Syu
+sudo rm -rf /var/lib/pacman/sync/chaos.db
+sudo pacman -Syy
+sudo pacman -Syu
+ls
+file chaos.db
+file chaos.db.tar.gz
+sudo ox /etc/pacman.conf
+sudo pacman -Sy
+ls
+sudo rm -rf /var/lib/pacman/sync/chaos.db
+ls
+sudo ox /etc/pacman.conf
+sudo pacman -Sy
+sudo pacman -Syu
+repo-add chaos.db.tar.xz ./*.pkg.tar.zst
+ls
+repo-add chaos.db.tar.xz ./*.pkg.tar.zst
+code .
+cd ../
+ls
+cd ../
+ls
+git add .
+git commit -m "new commit"
+git add .
+git commit -m "new commit"
+sudo ox /etc/pacman.conf
+git push --force origin main
+git add .
+git commit -m "new commit"
+git push --force origin main
+sudo ox /etc/pacman.conf
+sudo rm -rf /var/lib/pacman/sync/endeavouros.db
+sudo pacman -Sy
+sudo pacman -Syu
+sudo ox /etc/pacman.conf
+sudo pacman -Sy
+git clone https://github.com/chaoslinux/repo.git
+code .
+git add .
+git commit -m "new commit"
+git push --force origin main
+code .
+git add .
+git commit -m "new commit"
+git push --force origin main
+code .
+git add chaos.db
+git add .
+git add chaos.db
+cd chaos/x86_64/
+git add chaos.db
+git commit -m "new commit"
+git add chaos.db
+git commit -m "new commit"
+git add .
+git commit -m "new commit"
+git add chaos.db
+git commit -m "new commit"
+git push --force origin main
+ls
+repo-add chaos.db.tar.xz ./*.pkg.tar.zst
+git add .
+git commit -m "new commit"
+git push --force origin main
+sudo ox /etc/pacman.conf
+sudo rm -rf /var/lib/pacman/sync/endeavouros.db
+sudo rm -rf /var/lib/pacman/sync/chaos.db
+sudo pacman -Sy
+sudo pacman -Syu
+sudo pacman -S ox-bin
+sudo pacman -Rns ox-bin
+paru -S ox-bin
+sudo pacman -S ox-bin
+sudo ox /etc/pacman.conf
+sudo pacman -Syy
+git clone https://aur.archlinux.org/lapce-git.git
+makepkg
+sudo pacman -S clang
+makepkg
+ls
+git clone https://aur.archlinux.org/kcalc-git.git
+makepkg
+git clone https://aur.archlinux.org/telegram-desktop-bin.git
+makepkg
+sudo pacman -S chrpath
+makepkg
+git clone https://aur.archlinux.org/telegram-desktop-bin.git
+makepkg
+repo-add chaos.db.tar.xz ./*.pkg.tar.zst
+sudo ox /etc/pacman.conf
+code .
+git add .
+git commit -m "new commit"
+git push --force origin main
+code .
+git push --force origin main
+code .
+git add .
+git commit -m "new commit"
+git push --force origin main
+sudo pacman -S telegram
+sudo pacman -S  ox-bin
+makepkg
+ls
+repo-add chaos.db.tar.xz ./*.pkg.tar.zst
+sudo pacman -Syy
+sudo pacman -Rns ox-bin
+sudo pacman  -S ox
+makepkg
+history
+git clone https://aur.archlinux.org/eww.git
+git clone https://aur.archlinux.org/ox-bin.git
+makepkg
+repo-add chaos.db.tar.xz ./*.pkg.tar.zst
+git clone https://github.com/chaoslinux/PKGBUILD.git
+sudo pacman -Syy
+sudo pacman -Rns eww
+sudo pacman -S eww
+makepkg
+makepkg -si
+sudo pacman -S starship-theme
+sudo pacman -Rns starship-theme
+makepkg -si
+sudo pacman -Rns starship-theme
+makepkg
+makepkg -si
+sudo pacman -Rns starship-theme
+makepkg -si
+cp /usr/share/starship-theme/starship.toml "$HOME/.config/starship.toml"
+ls
+sha256sums starship.toml
+sha256sum starship.toml
+makepkg -si
+chmod +x post_install.sh
+sudo pacman -Rns starship-theme
+makepkg -si
+sudo pacman -Rns starship-theme
+makepkg -si
+makepkg
+makepkg -si
+makepkg
+sudo pacman -Rns starship-theme
+makepkg
+makepkg -si
+makepkg
+makepkg -si
+sudo pacman -Rns starship-theme
+cd ~/.config
+ls
+makepkg -si
+sudo pacman -Rns starship-theme
+rm -rf "~/.config/wezterm"
+rm -rf ~/.config/wezterm
+makepkg -si
+sudo pacman -Rns starship-theme
+rm -rf /$HOME/.config/wezterm
+sudo -i
+sudo ox /etc/passwd
